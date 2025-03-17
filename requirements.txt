@@ -1,1 +1,6 @@
-streamlit pandas statsmodels matplotlib scipy numpy
+streamlit
+pandas
+statsmodels
+matplotlib
+scipy
+numpy
