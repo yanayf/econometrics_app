@@ -1,1 +1,1 @@
-pandas statsmodels matplotlib scipy numpy
+pip install streamlit pandas statsmodels matplotlib scipy numpy
